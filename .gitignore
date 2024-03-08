@@ -1,0 +1,9 @@
+SampleBlazorApp.Core/obj/
+SampleBlazorApp.Data/obj/
+SampleBlazorApp.Infrastructure/obj/
+SampleBlazorApp.Web/bin/
+SampleBlazorApp.Web/obj/
+SampleBlazorApp.Infrastructure/bin/
+SampleBlazorApp.Data/bin/
+SampleBlazorApp.Core/bin/
+.vs/
